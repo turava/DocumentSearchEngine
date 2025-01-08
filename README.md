@@ -22,7 +22,7 @@ The implementation includes methods for adding, searching, and deleting document
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/DocumentSearchEngine.git
+   git clone [https://github.com/your-repo/DocumentSearchEngine.git](https://github.com/turava/DocumentSearchEngine.git)
 
 ## Code Explanation
 
